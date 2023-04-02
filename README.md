@@ -1,5 +1,4 @@
-# -
-epic和steam共享游戏本体
+# epic和steam共享游戏本体
 
 如题，有epic和steam两个游戏，都下载有些占用空间了。
 
